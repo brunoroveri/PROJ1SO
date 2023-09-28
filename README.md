@@ -4,6 +4,8 @@ Bruno Roveri - 32231911
 
 Lucas Farias - 32250193
 
+Luciana Rodrigues - 32168446
+
 
 
 - Requisitos:
